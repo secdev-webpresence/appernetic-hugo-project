@@ -1,8 +1,8 @@
-baseURL = "http://example.com/"
+baseURL = "http://secdev.com/"
 languageCode = "en-us"
-title = "Hugo Grayscale Theme"
+title = "SecDev"
 theme = "grayscale"
 [Params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
-    author = "RunningStream"
+    description = "The SecDev Group provides services at the nexus of Security and Development. "
+    author = "SecDev"
